@@ -1,5 +1,7 @@
 ---
 title: Introduction
+cover: .gitbook/assets/banner_intro.jpg
+coverY: 0
 ---
 
 # NCC Whitepaper
