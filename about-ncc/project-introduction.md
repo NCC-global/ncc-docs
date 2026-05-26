@@ -6,7 +6,7 @@ title: Project Introduction
 
 ## What is NCC
 
-NCC is a Web3 infrastructure project built around RWAs, on-chain liquidity and consumer-application networks. It is not defined as a single trading platform, GameFi application or payments tool — it is a value network composed of multi-layered protocols and application scenarios.
+NCC is a Web3 infrastructure project built around RWAs, on-chain liquidity and consumer-application networks. It is not defined as a single trading platform, GameFi application or payments tool. It is a value network composed of multi-layered protocols and application scenarios.
 
 Within this network, real assets are transformed into verifiable digital assets through compliant structures and on-chain technology. These assets enter the Unified Liquidity Engine to gain circulation capability and price-discovery mechanisms. Users access digital assets through the Marketplace, PayFi and other applications. Consumer behavior, identity data and ecosystem participation are recorded in the NCC Identity Layer, forming user reputation and access permissions over time.
 

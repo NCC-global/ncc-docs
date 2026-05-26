@@ -13,13 +13,13 @@ The goal of multi-chain architecture is not to create complexity, but to let dif
 
 ## Oracle & Data Synchronization
 
-For RWAs, the authenticity and timeliness of off-chain data are critical. NCC's oracle system synchronizes asset states, yield data, price information and risk parameters — allowing on-chain smart contracts to execute settlement, distribution and risk control based on verifiable data.
+For RWAs, the authenticity and timeliness of off-chain data are critical. NCC's oracle system synchronizes asset states, yield data, price information and risk parameters. Allowing on-chain smart contracts to execute settlement, distribution and risk control based on verifiable data.
 
 
 ## DID & Identity Infrastructure
 
 The NCC Identity Layer and DID infrastructure together form the foundation for user identity, access permissions and reputation systems. This makes user behavior and rights composable across applications, providing the identity foundation for PayFi, Marketplace and governance.
 
-The core principle of NCC's technical architecture is modularity, composability and evolvability. Rather than compressing all capabilities into a single system, NCC layers its design according to the distinct demands of assets, transactions, identity and applications — so that each module can iterate independently while remaining coordinated through unified protocols.
+The core principle of NCC's technical architecture is modularity, composability and evolvability. Rather than compressing all capabilities into a single system, NCC layers its design according to the distinct demands of assets, transactions, identity and applications. So that each module can iterate independently while remaining coordinated through unified protocols.
 
-This architecture also leaves space for future integration of external protocols and third-party applications. Developers can build new applications around the Marketplace, PayFi, Identity Layer or liquidity modules — without needing to rebuild the full asset-and-identity stack.
+This architecture also leaves space for future integration of external protocols and third-party applications. Developers can build new applications around the Marketplace, PayFi, Identity Layer or liquidity modules. Without needing to rebuild the full asset-and-identity stack.

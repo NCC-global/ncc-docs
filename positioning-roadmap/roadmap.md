@@ -35,6 +35,6 @@ _Ecosystem maturity_
 - Expand the ecosystem fund and global collaboration network.
 - Become open infrastructure for real-asset and consumer applications.
 
-Each phase is structured around verifiable outcomes — including asset onboarding capability, liquidity depth, application usage, identity-layer accumulation, merchant-network coverage and governance participation. NCC's roadmap does not chase single-point breakouts. It builds long-term network effects through the gradual maturity of assets, protocol, applications and governance.
+Each phase is structured around verifiable outcomes. Including asset onboarding capability, liquidity depth, application usage, identity-layer accumulation, merchant-network coverage and governance participation. NCC's roadmap does not chase single-point breakouts. It builds long-term network effects through the gradual maturity of assets, protocol, applications and governance.
 
-In the global-expansion phase, NCC will place greater emphasis on standardization. RWA onboarding processes, consumer-rights expression, identity-layer data structures and governance tooling will all be progressively modularized — so that more external developers, partners and application scenarios can integrate with the NCC network at lower cost.
+In the global-expansion phase, NCC will place greater emphasis on standardization. RWA onboarding processes, consumer-rights expression, identity-layer data structures and governance tooling will all be progressively modularized. So that more external developers, partners and application scenarios can integrate with the NCC network at lower cost.

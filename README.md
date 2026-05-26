@@ -1,6 +1,6 @@
 ---
 title: Introduction
-description: NCC Whitepaper — connecting on-chain value with real-world economic activity
+description: NCC Whitepaper. Connecting on-chain value with real-world economic activity
 ---
 # NCC Whitepaper
 

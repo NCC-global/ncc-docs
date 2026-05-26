@@ -17,7 +17,7 @@ NCC's competitive positioning is not that of a single-purpose RWA product, a sta
 | Long-term mechanism | Asset yield | Trading fees | Token inflation | Real Yield circulation |
 | Governance | Project / DAO | Project / DAO | Project-led | Foundation with progressive DAO |
 
-Compared to traditional RWA projects, NCC emphasizes liquidity and application scenarios after assets are brought on-chain. Compared to traditional DEXs, NCC's liquidity engine serves a broader range of asset types. Compared to traditional GameFi, NCC treats gamified scenarios as an ecosystem entry point — not a vehicle for inflationary rewards. Compared to standard consumer projects, NCC integrates PayFi, the identity layer and digital-asset rights into a single value network.
+Compared to traditional RWA projects, NCC emphasizes liquidity and application scenarios after assets are brought on-chain. Compared to traditional DEXs, NCC's liquidity engine serves a broader range of asset types. Compared to traditional GameFi, NCC treats gamified scenarios as an ecosystem entry point. Not a vehicle for inflationary rewards. Compared to standard consumer projects, NCC integrates PayFi, the identity layer and digital-asset rights into a single value network.
 
 NCC's differentiation lies in not trying to compete on any single module in isolation. Instead, through coordination among RWAs, liquidity, applications and identity, it builds a more complete mechanism for connecting on-chain and real-world economics.
 
