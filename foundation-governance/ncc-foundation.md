@@ -17,6 +17,8 @@ The NCC Foundation's core responsibility is not to operate any single product in
 
 NCC's governance structure consists of four independent yet collaborative entities. This layered structure is not redundant. It follows the principle of "separation of governance and operations, isolation of assets and protocol, parallel compliance and ecosystem."
 
+<figure><img src="../.gitbook/assets/Fig4_foundation_governance.png" alt="Four-tier NCC governance: Foundation, Operating Entity, SPV Structures, Merchant & PayFi Network"><figcaption><p>Figure 4 · The four-tier NCC governance structure</p></figcaption></figure>
+
 | 01 · Foundation | 02 · Operating Entity | 03 · SPV Structures | 04 · Merchant & PayFi Network |
 |---|---|---|---|
 | Governance Hub | Protocol & Operations | Asset Compliance | Real-world Application |

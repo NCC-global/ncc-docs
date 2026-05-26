@@ -5,6 +5,8 @@ title: Solution Overview
 
 NCC builds a multi-layered value network around real assets, on-chain liquidity and real-world applications. Its core is not a single product, but a set of mutually coordinated infrastructure layers.
 
+<figure><img src="../.gitbook/assets/Fig1_ecosystem_stack.png" alt="NCC ecosystem stack: RWA Infrastructure, Unified Liquidity, Marketplace & PayFi, Identity Layer"><figcaption><p>Figure 1 · The four coordinated layers of the NCC ecosystem</p></figcaption></figure>
+
 
 ## RWA Infrastructure Layer
 

@@ -6,6 +6,8 @@ title: Technical Infrastructure
 
 ## Multi-chain & Modular Architecture
 
+<figure><img src="../.gitbook/assets/Fig5_tech_layers.png" alt="NCC technical stack: settlement chains, L2, oracles, identity, application modules"><figcaption><p>Figure 5 · NCC's multi-chain modular technical stack</p></figcaption></figure>
+
 NCC adopts a multi-chain, modular architecture to meet the differing demands of RWAs, liquidity, applications and identity. Ethereum and the EVM ecosystem provide asset consensus and open-finance interfaces. Layer 2 networks support low-cost, high-frequency interactions. Purpose-built or industry chains accommodate compliance, privacy and institutional use cases.
 
 The goal of multi-chain architecture is not to create complexity, but to let different asset and application types run on the most suitable infrastructure, while cross-chain messaging, asset mapping and identity verification deliver a unified experience.

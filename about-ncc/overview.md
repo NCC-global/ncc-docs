@@ -27,4 +27,6 @@ Build long-term Web3 infrastructure through foundation governance, risk control 
 
 NCC's value loop does not rely on any single scenario, but is shaped jointly by assets, liquidity, applications and identity. Real yield provides the value foundation, liquidity enhances asset efficiency, applications drive use-case demand, the identity layer accumulates user relationships, and Foundation governance coordinates long-term direction.
 
+<figure><img src="../.gitbook/assets/Fig3_value_loop.png" alt="NCC value loop: real assets, liquidity, applications, identity reinforcing each other"><figcaption><p>Figure 3 · The NCC value loop</p></figcaption></figure>
+
 This structure gives NCC stronger adaptability across market cycles. When markets focus on yield, RWAs supply the value base; when markets focus on application traction, the Marketplace and PayFi provide use cases; when markets focus on governance and compliance, the Foundation and the Trust & Security Framework provide institutional support.
