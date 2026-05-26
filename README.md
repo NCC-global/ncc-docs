@@ -35,6 +35,18 @@ This documentation outlines the architecture, economic model, governance and roa
     <td>Cross-chain coordination, deep liquidity and routing for multi-asset markets.</td>
     <td><a href="the-ncc-solution/unified-liquidity-engine.md">→</a></td>
   </tr>
+</tbody>
+</table>
+
+<table data-view="cards">
+<thead>
+  <tr>
+    <th></th>
+    <th></th>
+    <th data-hidden data-card-target href="#"></th>
+  </tr>
+</thead>
+<tbody>
   <tr>
     <td><strong>Marketplace &#x26; PayFi Network</strong></td>
     <td>Digital assets, NFT rights and consumer applications connected to real economic activity.</td>
